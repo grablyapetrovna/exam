@@ -1,6 +1,7 @@
 # coding: utf-8
 # license: GPLv3
 
+
 import tkinter
 from tkinter.filedialog import *
 from solar_vis import *
